@@ -1,8 +1,8 @@
-# Markdown Link Copier
+# Markdown Link Clipper
 
 ## 概要
 
-**Markdown Link Copier** は、現在表示中のタブのタイトルとURLを、ワンクリックまたはショートカットキーでマークダウン形式（`[タイトル](URL)`）としてクリップボードにコピーできるChrome拡張機能です。
+**Markdown Link Clipper** は、現在表示中のタブのタイトルとURLを、ワンクリックまたはショートカットキーでマークダウン形式（`[タイトル](URL)`）としてクリップボードにコピーできるChrome拡張機能です。
 
 ## 機能
 
